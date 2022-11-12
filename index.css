@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{ 
+  font-family: "Roboto" , sans-serif;
+
+}
+
+body{
+
+ align-items: center;
+ justify-content: center;
+ display:flex
+
+}
+
+main {
+
+    width: 700px;
+    height: 820px;
+    border: 3px solid black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    margin: 50px;
+
+
+
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.productInfo{
+
+    display: flex;
+    color : white;
+    background-color: black;
+    margin: 20px;
+    border-radius: 10px;
+    justify-content:space-between;
+    padding-inline: 30px;
+}
+
+
+ul{
+
+    padding: 1px;
+
+
+}
+
+li{
+
+    list-style: none;
+    display: flex;
+    background-color: #f1f3f5;
+    border-radius: 10px;
+    margin: 20px;
+    justify-content: space-between;
+    padding-inline: 30px;
+}
+
+.section{
+
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 30px;
+    background-color: #dee2e6;
+    margin: 18px;
+    border-radius: 10px;
+    padding: 9px;
+
+}
+
+
+.button{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+
+}
+
+
+button{
+
+    
+
+    background-color: #69db7c;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    padding-inline: 70px;
+
+    
+    
+}
+
+
+h2{
+    justify-content: center;
+    justify-content: center;
+    ;
+}
